@@ -1,0 +1,101 @@
+ body {
+     margin: 0 0;
+}
+ #clock {
+     position: fixed;
+     width: 200px;
+     height: 200px;
+     border-radius: 50%;
+     border: 2px solid black;
+}
+ #secunde {
+     position:fixed;
+     top: 22px;
+     left:100px;
+     width:1px;
+     height:80px;
+     background-color: red;
+     transform-origin: 100% 100%;
+}
+ #minute{
+     position:fixed;
+     top: 32px;
+     left:100px;
+     width:1px;
+     height:70px;
+     background-color: black;
+     transform-origin: 100% 100%;
+}
+ #ore{
+     position:fixed;
+     top: 62px;
+     left:100px;
+     width:1px;
+     height:40px;
+     background-color: black;
+     transform-origin: 100% 100%;
+}
+ #doispe{
+     position:fixed;
+     left:92px;
+}
+ #unu {
+     position: absolute;
+     top: 12px;
+     left:142px;
+}
+ #doi {
+     position: absolute;
+     top: 46px;
+     left:177px;
+}
+ #trei {
+     position:absolute;
+     left: 190px;
+     bottom:91px;
+}
+ #patru {
+     position: absolute;
+     left:177px;
+     top: 139px;
+}
+ #cinci {
+     position: absolute;
+     left:142px;
+     top: 170px;
+}
+ #sase {
+     position:absolute;
+     left:96px;
+     top:182px;
+}
+ #sapte{
+     position: absolute;
+     top: 170px;
+     left:49px;
+}
+ #opt{
+     position: absolute;
+     left: 14px;
+     top: 138px;
+}
+ #noua {
+     position:absolute;
+     bottom:91px;
+     left: 2px;
+}
+ #zece{
+     position: absolute;
+     top: 46px;
+     left: 14px;
+}
+ #unspe{
+     position: absolute;
+     top: 12px;
+     left:47px;
+}
+ #picker{
+     position: fixed;
+     top:300px;
+}
+ 
