@@ -17,8 +17,8 @@ https://still-caverns-48677.herokuapp.com/
 <ul>
   <li><a href="https://nodejs.org/en/download/">Node.js</a></li>
 </ul>
-<b>Move into Analogic_Clock_Project folder from the cloned repository</b>
-<pre>cd Analogic_Clock_Project/
+<b>Move into cloned or downloaded repository</b>
+<pre>cd JS-Analogic-Clock-master
 </pre>
 <b>Install all dependencies from package.json file like in the example below</b></br>
 <pre>npm init</pre>
